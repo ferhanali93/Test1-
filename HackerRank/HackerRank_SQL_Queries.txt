@@ -1,1 +1,0 @@
-Here i will keep all my HackerRank SQL challenge queries here.
