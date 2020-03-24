@@ -1,19 +1,5 @@
-1. 
-
-
-2. I have succesfully created (SPA) of my profile, where a viewer should be able to do below:
-2.1. Download your resume
-2.2. Should be able to go to your LinkedIn profile
-2.3. Information about yourself in About Myself section
-2.4. User should be able to visit your GitHub link
-2.5. These are basic requirements, you can add as per your interest, use HTML, CSS or any other frontend technology to finish this task.
-2.6. Once your development of index.html is done deploy the code in the Amazon EC2 Linux server and attached your server public IP address with the exam paper along with the HTML document.
-IP address: http://18.191.77.196/
-
-
-3. 
-
-
-
-
-4. 
+1. Wrote 20 test cases for izaan solution inc. as a excel sheet attacted to Testplan folder on Git hub. It also include images Scrum of board ticket ticket i have created for that testing procedures.
+2. My page is up and running in the server successfully. The requirements have been met for that Webpage inlucding links to resume, github, linkedIn and also added an About me text has been added. The Html code file and other related files are in the HTML folder in Git hub.
+3. Done all 8 postgreSQL Queries. An image of complettion as well the actual Queries.txt file has been added to the PostgreSQL folder on Github.
+4. HackerRank challeneges has been done from basic to Advance. An image of complettion has been provided. Image can be found under HankerRank folder on GitHub.
+5. The IP address has been provided to thru email to you in advance for my webpage. 
